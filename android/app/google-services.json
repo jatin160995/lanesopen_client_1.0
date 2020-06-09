@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318415064704",
+    "firebase_url": "https://lanesopen-bdf3d.firebaseio.com",
+    "project_id": "lanesopen-bdf3d",
+    "storage_bucket": "lanesopen-bdf3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318415064704:android:fbbc8607ec351e104d2065",
+        "android_client_info": {
+          "package_name": "com.lanesopen.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318415064704-j76utidbrk1oenku507j800o16l632a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSjMNDlOQnO1G95sUIDeW9Cbbd14YMdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318415064704-j76utidbrk1oenku507j800o16l632a1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318415064704-49mk6b0b19go62js6hkegi31ugln3esb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lanesopen.store"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
