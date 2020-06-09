@@ -78,7 +78,7 @@ class _ProductState extends State<Product> {
                         child: Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: FadeInImage.assetNetwork(
-                            height: 160,
+                            height: 159,
                             width: 160,
                             placeholder: 'assets/images/loading.gif',
                             image: ""//widget.productData['custom_attributes'][0]['value'],
